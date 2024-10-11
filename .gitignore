@@ -13,10 +13,7 @@
 *.TIF
 *.TIFF
 *.HEIC
-*.mp4
-*.mov
 *.MOV
-*.avi
 *.data
 *.json
 *.cfg
@@ -49,7 +46,6 @@ VOC/
 
 # Neural Network weights -----------------------------------------------------------------------------------------------
 *.weights
-*.pt
 *.pb
 *.onnx
 *.engine
