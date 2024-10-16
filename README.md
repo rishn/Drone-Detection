@@ -44,6 +44,7 @@ https://github.com/user-attachments/assets/2fdc9f96-2d09-4f53-b764-7baded555aa5
 
 ### Prerequisites:
 
+- Linux Ubuntu
 - Python 3.8 or higher
 - PyTorch
 - OpenCV
