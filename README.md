@@ -37,8 +37,6 @@ https://github.com/user-attachments/assets/2fdc9f96-2d09-4f53-b764-7baded555aa5
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Model](#model)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ---
 
