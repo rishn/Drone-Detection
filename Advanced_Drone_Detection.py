@@ -13,7 +13,6 @@ def non_max_suppression(boxes, confidences, iou_threshold=0.5):
     return indices.flatten() if len(indices) > 0 else []
 
 # Path to YOLOv5 repo and models
-yolo_repo_path = Path('./yolov5')  # Path to the YOLOv5 repo
 best_model_path = Path('best.pt')  # Path to your local model for drone detection
 yolov5_model_path = Path('yolov5s.pt')  # Use the YOLOv5 model for person and vehicle detection
 
